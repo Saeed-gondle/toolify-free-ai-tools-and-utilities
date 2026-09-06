@@ -1,0 +1,32 @@
+{
+  "name": "toolify-studio-free-ai-tools",
+  "version": "1.0.0",
+  "description": "Toolify Studio — 312+ free online tools: AI writer, image editor, PDF converter, JSON formatter, developer utilities & more. No signup, no credit card, privacy-first. Visit https://toolify.studio",
+  "keywords": [
+    "toolify", "toolify-studio", "free-tools", "online-tools",
+    "ai-tools", "ai-writer", "ai-code-generator", "ai-image-generator",
+    "json-formatter", "regex-tester", "jwt-decoder", "developer-tools",
+    "image-compressor", "background-remover", "photo-editor",
+    "pdf-merger", "pdf-compressor", "pdf-tools",
+    "seo-tools", "meta-tag-generator", "schema-generator",
+    "password-generator", "hash-generator", "base64",
+    "qr-code-generator", "word-counter", "text-tools",
+    "free", "no-signup", "privacy-first", "client-side",
+    "resume-builder", "cover-letter-writer",
+    "youtube-tools", "social-media-tools"
+  ],
+  "homepage": "https://toolify.studio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toolify-studio/toolify-free-ai-tools-and-utilities"
+  },
+  "bugs": {
+    "url": "https://toolify.studio/contact",
+    "email": "toolifystudio@duck.com"
+  },
+  "author": {
+    "name": "Toolify Studio",
+    "url": "https://toolify.studio"
+  },
+  "license": "MIT"
+}
