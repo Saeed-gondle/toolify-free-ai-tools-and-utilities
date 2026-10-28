@@ -8,6 +8,20 @@
 
 # [Toolify Studio](https://toolify.studio) — Your All-in-One Free Online Tools Platform
 
+
+## ⚡ 2026 Flagship Developer & AI Utilities
+
+| Tool | Capability & Highlights | Direct Live Link |
+| :--- | :--- | :--- |
+| **AI API Cost Calculator** | Real-time dynamic token pricing comparison across Claude 3.5/3.7, GPT-4o, GPT-5/6, Gemini 2.0 & DeepSeek R1 with prompt caching & batch mode | [Launch AI Cost Calculator](https://toolify.studio/tools/ai-api-cost-calculator) |
+| **Online JSON Formatter** | Line-by-line syntax error diagnostics and one-click auto-repair for single quotes, unquoted keys, and trailing commas | [Launch JSON Formatter](https://toolify.studio/tools/json-formatter) |
+| **JWT Decoder Online** | 100% client-side zero-leak token claims, expiration timer, and algorithm header inspector | [Launch JWT Decoder](https://toolify.studio/tools/jwt-decoder) |
+| **UUID v7 Generator** | Time-ordered RFC 9562 UUID keys with millisecond timestamp encoding for database B-Tree index optimization | [Launch UUID v7 Generator](https://toolify.studio/tools/uuid-v7-generator) |
+| **OKLCH Color Converter** | Tailwind CSS v4 perceptual color space converter with sRGB/P3 wide-gamut validation | [Launch OKLCH Converter](https://toolify.studio/tools/oklch-converter) |
+| **SQL Query Formatter** | Beautify complex SQL joins, subqueries, and clauses across PostgreSQL, MySQL, and SQLite | [Launch SQL Formatter](https://toolify.studio/tools/sql-formatter) |
+| **Regex Tester & Debugger** | Real-time regular expression pattern matching with live capture highlight and preset library | [Launch Regex Tester](https://toolify.studio/tools/regex-tester) |
+
+
 ### 🚀 312+ Free Tools · 50+ AI Tools · 93 Developer Utilities · 18 Categories
 
 **Instantly use AI writers, image editors, PDF tools, code formatters, SEO analyzers, and 300+ more tools — right in your browser. No signup. No credit card. No installation. 100% free.**
